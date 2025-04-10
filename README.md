@@ -5,7 +5,7 @@ print("Welcome to my github!😄")
 ---
 
 <p>👨🏼‍💻 Computer Science student - São Judas Tadeu University
-<p>📚 Outside courses: The Odin Project and Full Stack OpenS
+<p>📚 Outside courses in progress: The Odin Project and Full Stack Open
 <p>🚀 Passionate about technology and turning ideas into code!
 
 ---
@@ -26,3 +26,9 @@ print("Welcome to my github!😄")
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native"/>
 </p>
+
+---
+
+<a href="https://www.linkedin.com/in/alexandre-matiello/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+</a>
